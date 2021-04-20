@@ -10,6 +10,7 @@ Include an image
 Include link to source code
 
 
+
 ### Drawing game
 An OOP drawing game made in processing, Winter 2020.
 
@@ -18,12 +19,16 @@ Include an image
 Include link to source code
 
 
+
 ### Calculator
 An OOP application made in processing, Winter 2020.
 
 Include an image
 
 Include link to source code
+
+
+
 
 ## Javascript Projects
 
@@ -35,12 +40,14 @@ Include an image
 Include link to source code
 
 
+
 ## Its a Date Assigment
 An OOP date calculation application made in javascript, Winter 2020.
 
 Include an image
 
 Include link to source code
+
 
 
 ## Mad Lib (Fill in the blanks) 
@@ -51,12 +58,14 @@ Include an image
 Include link to source code
 
 
+
 ## Shape Calculations
 An OOP shape calculation application made in javascript, Winter 2020.
 
 Include an image
 
 Include link to source code
+
 
 
 
