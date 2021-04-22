@@ -5,7 +5,7 @@
 ### Space Game
 An OOP Space shooter game made in processing, Winter 2020.
 
-Include an image
+![Space game](https://raw.githubusercontent.com/Pigchow101/Proggramming-portfolio/gh-pages/Images/Spaceship%20Game.png)
 
 Include link to source code
 
